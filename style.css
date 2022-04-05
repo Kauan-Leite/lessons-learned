@@ -6,14 +6,27 @@ body{
     background-color: rgb(253, 251, 251);
 }
 header{
-    background-color: red;
+    background-color: #00171f;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    color: #00a8e8;
     position: fixed;
     width: 100%;
     top: 0;
 }
+nav li{
+    display: inline-block;
+}
+nav li a{
+    color: #b2ff9e;
+    font-size: 20px;
+}
+nav li a:hover{
+    color: #3bceac;
+}
 #minha_foto{
     width: 200px;
-    margin-top: 40px;
+    margin-top: 60px;
     margin-left: 4px;
 }
 h2{
@@ -23,5 +36,7 @@ h2{
     margin-left: 25px;
 }
 #rodape{
-    background-color: red;
+    background-color: #00171f;
+    color: #ffffff;
+    text-align: center;
 }
