@@ -63,6 +63,25 @@ h2{
 #licoes_aprendidas, #licoes_a_aprender{
     margin-left: 25px;
 }
+
+#table{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 0px;
+}
+table, th, td {
+    display: inline-block;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th{
+      width: 359px;
+  }
+.nome_projeto{
+      width: 250px;
+      text-align: center;
+  }
+
 p, #site_trybe{
     text-align: justify;
 }
