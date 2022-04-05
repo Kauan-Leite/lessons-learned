@@ -11,3 +11,14 @@ header{
     width: 100%;
     top: 0;
 }
+#minha_foto{
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 4px;
+}
+h2{
+    margin-left: 4px;
+}
+#licoes_aprendidas{
+    margin-left: 20px;
+}
