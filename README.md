@@ -1,10 +1,22 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# :books: Lessons Learned
+
+<div align="center">
+  <!-- <img src="" alt="" width="200px"/> !-->
+  <p> Imagens do Projeto </p>
+</div>
+
+## :microscope: Desenvolvimento
+
+Projeto desenvolvido na <a href="https://betrybe.com/" target="_blank">Trybe</a> durante o módulo de Fundamentos!
+
+Nesse projeto foi desenvolvido uma aplicação simples visando um simples portfólio.
+
+## :dna: Execução
+<br />
+
+A aplicação está sendo hospedada pelo Vercel, basta acessar <a href="https://lessons-learned-rho.vercel.app/" target="_blank">Lessons Learned</a>.
+
+## ⚙️ Tecnologias
+
+- HTML
+- CSS
