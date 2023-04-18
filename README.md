@@ -1,8 +1,7 @@
 # :books: Lessons Learned
 
 <div align="center">
-  <!-- <img src="" alt="" width="200px"/> !-->
-  <p> Imagens do Projeto </p>
+  <img src="https://user-images.githubusercontent.com/102389576/232859811-a0a53318-c8a2-4b90-ae30-778a9a30d6c6.png" alt="Tela Principal do Projeto Lessons Learned" width="800px"/>
 </div>
 
 ## :microscope: Desenvolvimento
