@@ -1,9 +1,7 @@
 # 🖥️ Lessons Learned
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/102389576/201978121-2da8d680-1dad-45c0-9ba7-d9940668b943.jpeg" alt="" width="200px"/>
-<img src="https://user-images.githubusercontent.com/102389576/201978120-856434d4-0ed9-48c0-a809-964f4014499e.jpeg" alt="" width="200px"/>
-<img src="https://user-images.githubusercontent.com/102389576/201978111-9d0e579a-2436-4eae-a308-4444dccc3115.jpeg" alt="" width="200px"/>
+<img src="https://private-user-images.githubusercontent.com/102389576/335748901-74923d0d-229f-45c2-8521-5c35f6293b05.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTcxOTczNDgsIm5iZiI6MTcxNzE5NzA0OCwicGF0aCI6Ii8xMDIzODk1NzYvMzM1NzQ4OTAxLTc0OTIzZDBkLTIyOWYtNDVjMi04NTIxLTVjMzVmNjI5M2IwNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUzMVQyMzEwNDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNmIyNzg5ZDVkOTAyYTUxZTdhNDMxMzRjM2VlMzE4MGUwODdlYjE2NGY2YWI2MzAyM2IwYTE1YjgwYzRjMzEwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.IMftif6PF6OYXXjL2jdOKcsE9iM5uqtbaazQ5Lz9WiY" alt=""/>
 </div>
 
 ## :microscope: Desenvolvimento
